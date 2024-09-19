@@ -25,7 +25,7 @@ def calci(n1,n2):
     elif op == "sq":
         return n1**2, n2**2
     elif op == "cb":
-        return n1**2, n2**3
+        return n1**3, n2**3
     else:
         return "Wrong option please enter any option only from the above."
 print(calci(n1,n2))
