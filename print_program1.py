@@ -9,7 +9,7 @@ print("mdiv --> modulo division of n1 with n2")
 print("sq --> Square of n1, n2")
 print("cb --> Cube of n1, n2")
 op = input("Enter any option: ")
-def calci(n1,n2):
+def calci(n1,n2)
     if op == "add":
         return n1+n2
     elif op == "sub":
